@@ -1,0 +1,1 @@
+<h{{ default "1" ( .Get "depth" ) }} class="{{ with .Get "color" }}has-text-{{ . }} {{ end }} {{ with .Get "weight" }}has-text-weight-{{ . }} {{ end }} {{ with .Get "justify" }}has-text-{{ . }} {{ end }}">{{ .Inner }}</h{{default "1" ( .Get "depth" ) }}>

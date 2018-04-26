@@ -1,0 +1,3 @@
+<div class="{{ with .Get "size" }}is-size-{{ . }} {{ end }}{{ with .Get "justify" }}has-text-{{ . }} {{ end }}">
+    {{ .Inner }}
+</div>

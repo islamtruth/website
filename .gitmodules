@@ -1,0 +1,6 @@
+[submodule "themes/hugo-smorg"]
+	path = themes/hugo-smorg
+	url = https://github.com/solutionroute/hugo-smorg
+[submodule "public"]
+	path = public
+	url = https://github.com/islamtruth/islamtruth.github.io
