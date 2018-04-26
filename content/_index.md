@@ -5,6 +5,9 @@ title: About Islam
 ---
 
 If you're here to learn about [Islam](/islam), you've come to the right place.
+Feel free to read about the [history](/islam/history.md), use any of the
+[resources](/resource), or find out what is [controversial](/controversy)
+about Islam.
 
 {{< blockquote >}}
 {{% dictionary %}}

@@ -7,19 +7,80 @@ layout: subsection
 slug: islam
 ---
 
-So what is this *Islam* thing all about? Since people don't really
-know much about Islam outside of the Arabic and Asian countries
+So what is this *islam* thing all about? Since people don't really
+know much about islam outside of the Arabic and Asian countries
 where it is prevalent, this site serves to educate on the basics
 of Islam from a neutral standpoint.
 
-This section discusses everything from the [history](/islam/history),
-the [belief](/islam/belief) to the [current state](/islam/state)
-of Islam and the islamic world. Unlike many people believe, Islam
-is neither inherently immoral, nor does it present a superior
-morality. Instead, most of Islamic beliefs and teachings can
-be arranged on a spectrum ranging from positive to negative.
-Such a spectrum offers a simple introduction to the religion for
-those who are not familiar with it yet.
+If you want to know [what islam is](#definition), [why we should
+care](#relevance) and [how moral it is](#morality), read on. If you want to
+know how islam got to where it is now, you may be interested in the
+[history](/islam/history) section. If you want to know about what *muslims*
+actually believe, check out the [belief](/islam/belief) section. If you want to
+know more about islam and muslims today, check out the [current
+state](/islam/state) section.
+
+### Definition
+
+{{< blockquote >}}
+{{% dictionary %}}
+**is·lam** /'ɪslɑːm/: *surrender* or *submission*.
+
+**mus·lim** /'mʊslɪm/: *one who surrenders* or *one who submits*.
+{{% /dictionary %}}
+{{< /blockquote >}}
+
+Islam is a monotheistic religion that originated in 7<sup>th</sup> century
+middle east[^1]. It is related to [judaism][jewishencyclopedia] and
+[christianity][ancient-christianity]. It was preached first to the followers of
+it's founder Mohammed, then to all of Arabia; and soon after his death it was
+spread to distant lands by the might of the
+sword.[^2]
+
+[^1]: http://www.bbc.co.uk/religion/religions/islam/ataglance/glance.shtml
+[^2]: http://www.jewishencyclopedia.com/articles/8263-islam
+[jewishencyclopedia]: http://www.jewishencyclopedia.com/
+[ancient-christianity]: https://www.ancient.eu/christianity/
+
+### Relevance
+
+Why do we care about Islam at all? As the second largest religion in the world[^1],
+with over 1.7 billion followers[^4], it posesses a lot of hidden manpower. Hidden,
+because the Islamic world is composed of countries as obscure and unknown as
+Mauritiania, Comoros, Dijbhouti, Sahrawi Republic or Oman. In short, countries
+that we want to avoid when travelling:
+
+> Many observers note that Muslim countries score lower than average on
+> political development, notably the status of women. And except for oil
+> wealth, most Muslim countries are doing poorly on economic and social
+> development as well[^7]
+
+Islam has been described (by an ex-muslim) as a moral framework not compatible
+with the modern westernised way of living[^5].
+
+> The hard truth is there is a lot of violence endorsed in the Quran, and there
+> are other terrible things, as there are in the Old Testament. But there are
+> more people in the world — even if it’s a minority of Muslims — who take
+> their scripture seriously. It’s dishonest to say that violent Muslim groups
+> like ISIS are being un-Islamic.[^6]
+
+So, the relevance of Islam is in the fact that it is being followed by a large
+part of the world's population. This population may seen unimportant to us
+in the developed world, but we can't ignore it.
+
+[^3]: http://laitman.com/2016/11/why-is-islam-so-popular/
+[^4]: https://www.atheoryofus.net/islam-statistics/
+[^5]: https://www.theguardian.com/world/2010/may/08/ayaan-hirsi-ali-interview
+[^6]: https://www.vox.com/conversations/2017/7/7/15886862/islam-trump-isis-terrorism-ali-rizvi-religion-sam-harris
+[^7]: https://www.washingtonpost.com/news/monkey-cage/wp/2016/05/16/are-muslim-countries-more-violent/?noredirect=on&utm_term=.005fb3dc9b7c
+
+### Morality
+
+Unlike many people believe, Islam is neither inherently immoral, nor does it
+present a superior morality. Instead, most of Islamic beliefs and teachings can
+be arranged on a spectrum ranging from positive to negative.  Such a spectrum
+offers a simple introduction to the religion for those who are not familiar
+with it yet.
 
 {{< prominent >}}
 {{< columns >}}
